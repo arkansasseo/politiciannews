@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Politican News</title>
+	<atom:link href="https://arkansasseo.github.io/politiciannews/feed" rel="self" type="application/rss+xml" />
+	<link>https://arkansasseo.github.io/politiciannews</link>
+	<description>Add Meta Description Here</description>
+	<lastBuildDate>Tuesday, 11 May 2021 15:56:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>	
+	
+	
+	
+<!--feeditem-->
+<item>
+		<title>A Poltical Website Helps Your Local Election</title>
+		<link>https://arkansasseo.github.io/politiciannews/Political-Website/A-Poltical-Website-Helps-Your-Local-Election.html</link>
+		<pubDate>Tuesday, 11 May 2021 15:56:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[Political Website]]></category>
+		<guid isPermaLink="false">https://arkansasseo.github.io/politiciannews/Political-Website/A-Poltical-Website-Helps-Your-Local-Election.html</guid> 
+		<description><![CDATA[A Poltical Website Helps Your Local Election
+by
+Bob Brady
+Posted on 11-05-2021 03:56 PM
+On This Page 
+ 
+ I already have a domain name Can I use it with Campaign Builder? 
+ Will my website be easy to read on mobile phones? 
+ Can I use a Campaign Builder for an issue awareness campaign? 
+ I'm in Canada - can I still use a Campaign Builder? 
+ What if I don't need to keep my site online after my campaign, but I do want to save my website for my next election? 
+ Best Political Campaign Websites of 2020 
+ How do I design political sites like these? 
+ We've been a leader in political websites for more than a decadeNMC Client Named One of Best Congressional Websites in 2010 
+ 
+ 
+ 
+ I already have a domain name
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+	
+	
+</channel>
+</rss>
+
+		
