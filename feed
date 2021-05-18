@@ -12,7 +12,7 @@
 	<atom:link href="https://arkansasseo.github.io/politiciannews/feed" rel="self" type="application/rss+xml" />
 	<link>https://arkansasseo.github.io/politiciannews</link>
 	<description>Add Meta Description Here</description>
-	<lastBuildDate>Tuesday, 11 May 2021 15:56:01 +0000</lastBuildDate>
+	<lastBuildDate>Monday, 17 May 2021 22:42:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>	
@@ -20,6 +20,66 @@
 	
 	
 <!--feeditem-->
+<item>
+		<title>Political Website Fundamental Color Theory</title>
+		<link>https://arkansasseo.github.io/politiciannews/Political-Website/Political-Website-Fundamental-Color-Theory.html</link>
+		<pubDate>Monday, 17 May 2021 22:42:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[Political Website]]></category>
+		<guid isPermaLink="false">https://arkansasseo.github.io/politiciannews/Political-Website/Political-Website-Fundamental-Color-Theory.html</guid> 
+		<description><![CDATA[
+        <!-- Post Content Column -->
+        <div class="col-lg-8">
+
+          <!-- Title -->
+          <h1 class="mt-4">Political Website Fundamental Color Theory</h1>
+
+          <!-- Author -->
+          <p class="lead">
+            by
+            <a href="Bob Brady">Bob Brady</a>
+          </p>
+
+          <hr>
+
+          <!-- Date/Time -->
+          <p>Posted on 17-05-2021 10:42 PM</p>
+
+          <hr>
+
+          <!-- Preview Image -->
+          <img class="img-fluid rounded" src="../Images/Political-Website-Fundamental-Color-Theory.jpg" alt="">
+
+          <hr>
+		  <div class="col-sm-12 col-md-6" style="float: left; padding: 5px; margin: 2px;">
+<div style="width: 90%; border: 1px solid #C0C0C0; padding-left: 10px;">
+<h4>On This Page</h4>
+<ol>
+<li><a href="#1">An Introduction to Color Theory for Web Designers</a></li>
+<li><a href="#2">Sir Isaac Newton&amp;rsquo;s Influence on the Color Wheel</a></li>
+</ol>
+</div>
+</div>
+<h3 id="1">An Introduction to Color Theory for Web Designers</h3>
+<p>Color theory is the practice of using the meaning behind colors to bring about a sensory experience. This practice can be applied to web design with some knowledge and thought. People will often disagree about what certain colors mean and what colors designers should use to implore a certain emotion. However, what can&amp;rsquo;t be argued is that consumers do have emotional responses to colors.</p>
+<p>The color wheel is a circle containing all the basic colors. Look at it, we can learn the relationship between them. It&amp;rsquo;s known as the fundamental theory to choose colors for every aspect of life. For example, choosing color for clothes, furniture, art, &amp;hellip; particularly, applying the color wheel is important not only for professional designers but also for those who want to own a beautiful website. A website contains different elements and they absolutely have more than only one color, so you surely need to combine them. Therefore, using the color wheel will ensure the harmony of all the colors and highlight the desirable, making your website gorgeous and prominent.</p>
+<p><iframe title="YouTube video player" src="https://www.youtube.com/embed/K3FKZQBmkt4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Now let&amp;rsquo;s dive into how designers can use color theory to enhance their projects. Think about the last time you filled out a contact form on a website. Miss a field, and a red error message likely pops up. On the contrary, if you need to re-enter a password for verification, and you enter everything correctly, a green message signals you to proceed. In this case, not only does color communicate how to use your product, but also draws on psychology to evoke emotional responses (green = good, red = bad).</p>
+<h2 id="2">Sir Isaac Newton&amp;rsquo;s Influence on the Color Wheel</h2>
+<p>Sir isaac newton probably didn't imagine how much of an influence his color wheel studies would have on the worlds of art and interior design. The next time you find yourself wanting to repaint a room in your house, you might find yourself standing in front of thousands of paint samples. By using a color wheel, you can figure out which colors would look good next to each other and which would look good on your walls. You can also decide how vivid you want that color by shading or tinting it.</p>
+<p><a title="Color design political website" href="https://storage.googleapis.com/politicstoday/Campaign-Websites/Color-Schemes-For-Candidates-Site-Design.html" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://storage.googleapis.com/politicstoday/Images/Color-Schemes-For-Candidates-Site-Design.jpg" alt="color theory political website" width="640" height="360" /></a></p>
+
+          <!-- Post Content -->
+          
+          <hr>
+
+          <!-- Comments Form -->
+        
+
+        </div>
+		]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+
 <item>
 		<title>A Poltical Website Helps Your Local Election</title>
 		<link>https://arkansasseo.github.io/politiciannews/Political-Website/A-Poltical-Website-Helps-Your-Local-Election.html</link>
